@@ -30,7 +30,8 @@ Le pagine preimpostate saranno modificabili semplicemente modificando un file JS
 ## Template per presentazioni
 
 ## Cartella con loghi vari
-
+> I loghi sono editati con Affinity, programma gratuito di editing foto/disegni.
+> Facilmente applicabile a Canva
 ## Link utili allo sviluppo
 
 ## Immagini utili
